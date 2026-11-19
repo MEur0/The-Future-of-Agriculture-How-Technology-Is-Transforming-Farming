@@ -21,4 +21,4 @@ The future of agriculture will not depend only on larger farms or more machinery
 
 The next agricultural revolution is already happening, and technology is helping build a more sustainable food system for future generations.
 
-#Agriculture #SmartFarming #AgTech #SustainableAgriculture #AI #PrecisionFarming #Innovation #FutureOfFarming
+#Agriculture #SmartFarming #AgTech #SustainableAgriculture #AI #PrecisionFarming #Innovation #FutureOfFarm
